@@ -94,6 +94,6 @@ git clone https://github.com/usuario/proyecto.git
 
 ```pip install -r requirements.txt```
 
-#### 🛠️Herramientas utilizadas: entorno Google Colab, Python, pandas, matplotlib, plotly, Power BI
+#### 🛠️Herramientas utilizadas: entorno Google Colab, Python, pandas, matplotlib, plotly, Power BI, GitHub
 
 #### Autor: Pablo Delucchi
