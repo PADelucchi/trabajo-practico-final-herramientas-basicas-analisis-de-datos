@@ -69,7 +69,7 @@ Para ver KPIs que describen el cumplimiento de metas, se accede al siguiente das
 
  * [PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/98037350-6f8a-49dd-a79e-037e0111255c/9684fd06026c94b4c3b1?experience=power-bi)
 
-<img src="" alt="Descripción del gráfico" width="700">
+<img src="https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/main/images/Captura%20de%20pantalla%202026-11-14%20173930.png" alt="Descripción del gráfico" width="700">
 
 
 ### 🔍Resultados  
