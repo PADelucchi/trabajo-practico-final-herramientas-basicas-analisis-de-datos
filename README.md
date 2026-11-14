@@ -68,8 +68,6 @@ Para ver KPIs que describen el cumplimiento de metas, se accede al siguiente das
 
 ### 🔍Resultados  
 
-##Conclusiones del análisis dataset
-
 El mercado argentino de agua oxigenada viene cayendo sin pausa desde 2023, lo que muestra una relación directa con la caída del consumo y la actividad industrial.
 La incidencia de los fletes ha aumentado dado que los precios bajaron mientras nuestros transportes (Solvay Peróxidos) se mantuvieron casi constantes desde 2021 en USD/tn.
 Frente a este contexto se buscará importar producto desde Chile por la menor distancia respecto a Brasil.
