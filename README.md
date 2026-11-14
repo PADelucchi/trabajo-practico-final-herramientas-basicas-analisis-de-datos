@@ -66,15 +66,6 @@ Para ver KPIs que describen el cumplimiento de metas, se accede al siguiente das
  * [PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/98037350-6f8a-49dd-a79e-037e0111255c/9684fd06026c94b4c3b1?experience=power-bi)
 
 
-
-#### Clonar repositorio
-
-git clone https://github.com/usuario/proyecto.git 
-
-#### Instalación librerías
-
-```pip install -r requirements.txt```
-
 ### 🔍Resultados  
 
 ##Conclusiones del análisis dataset
@@ -87,6 +78,14 @@ Es prioritario renegociar nuestros servicios logísticos, logrando una reducció
 
 La tendencia es que se mantendrá un mercado recesivo y sin cambios hasta después de las elecciones del año próximo, en caso que aumente el consumo de la población, y no dependerá tanto de que se restrinjan las importaciones de producto terminado.
 
+
+#### Clonar repositorio
+
+git clone https://github.com/usuario/proyecto.git 
+
+#### Instalación librerías
+
+```pip install -r requirements.txt```
 
 ### 🛠️Herramientas utilizadas: entorno Google Colab, Python, pandas, matplotlib, plotly, Power BI
 
