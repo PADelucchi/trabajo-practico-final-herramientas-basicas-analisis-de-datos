@@ -66,7 +66,10 @@ Para ver KPIs que describen el cumplimiento de metas, se accede al siguiente das
  * [PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/98037350-6f8a-49dd-a79e-037e0111255c/9684fd06026c94b4c3b1?experience=power-bi)
 
 
+
+
 ### 🔍Resultados  
+
 
 El mercado argentino de agua oxigenada viene cayendo sin pausa desde 2023, lo que muestra una relación directa con la caída del consumo y la actividad industrial.
 La incidencia de los fletes ha aumentado dado que los precios bajaron mientras nuestros transportes (Solvay Peróxidos) se mantuvieron casi constantes desde 2021 en USD/tn.
@@ -85,6 +88,6 @@ git clone https://github.com/usuario/proyecto.git
 
 ```pip install -r requirements.txt```
 
-### 🛠️Herramientas utilizadas: entorno Google Colab, Python, pandas, matplotlib, plotly, Power BI
+#### 🛠️Herramientas utilizadas: entorno Google Colab, Python, pandas, matplotlib, plotly, Power BI
 
-### Autor: Pablo Delucchi
+#### Autor: Pablo Delucchi
