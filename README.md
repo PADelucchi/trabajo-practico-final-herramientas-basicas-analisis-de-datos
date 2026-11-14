@@ -50,16 +50,18 @@ Nuestro market share se ha mantenido cercano a la meta del 15% durante la actual
 
 <img src="https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/main/images/Precios%20y%20fletes%20competidores%20directos.png" alt="Descripción del gráfico" width="700">
 
-En la gráfica se excluyen los usuarios directos, haciendo foco en los competidores directos, es decir el sector de reventa. Se evidencian nuestros costos mayores frente al competidor Dalgar, pero bien posicionados frente a Febel 
+En la gráfica se excluyen los usuarios directos, haciendo foco en los competidores directos, es decir el sector de reventa. Se evidencian nuestros costos mayores frente al competidor Dalgar sobretodo en los últimos 2 años, pero bien posicionados frente a Febel.
 
 #### 3) Medir la incidencia del costo logístico en el precio del producto, que no sea mayor a 150 usd/tn y su comparación frente a competidores directos.
+
+Del mismo gráfico se pueden ver los precios de los fletes por tonelada, y también debemos mejorar frente a Dalgar. Las columnas azules, que representan el costo de producción + flete, para Solvay Peróxidos marcan que nuestro margen de rentabilidad está bajo presión porque los precios para los clientes, lejos de mantenerse estables, están yendo a la baja para la poca demanda agua oxigenada.
 
 ### Instrucciones de uso
 
 Para ver criterios de clasificación y limpieza del dataset, junto con gráficas correr el siguiente enlace
 * [Analisis Python via Colab](https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/main/TP%20final%20.ipynb)
 
-Para ver KPIs
+Para ver KPIs que describen el cumplimiento de metas, se accede al siguiente dashboard donde se puede filtrar por año, mes y por empresa.
 
  * [PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/98037350-6f8a-49dd-a79e-037e0111255c/9684fd06026c94b4c3b1?experience=power-bi)
 
@@ -86,6 +88,6 @@ Es prioritario renegociar nuestros servicios logísticos, logrando una reducció
 La tendencia es que se mantendrá un mercado recesivo y sin cambios hasta después de las elecciones del año próximo, en caso que aumente el consumo de la población, y no dependerá tanto de que se restrinjan las importaciones de producto terminado.
 
 
-🛠️Herramientas utilizadas: entorno Google Colab, Python, pandas, matplotlib, plotly, Power BI
+### 🛠️Herramientas utilizadas: entorno Google Colab, Python, pandas, matplotlib, plotly, Power BI
 
-Autor: Pablo Delucchi
+### Autor: Pablo Delucchi
