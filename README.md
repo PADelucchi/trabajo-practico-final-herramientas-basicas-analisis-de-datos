@@ -58,7 +58,7 @@ Analizando en mayor detalle, se muestra la comparación del precio mensual del p
 
 #### 3) Medir la incidencia del costo logístico en el precio del producto, que no sea mayor a 150 usd/tn y su comparación frente a competidores directos.
 
-Del mismo gráfico se pueden ver los precios de los fletes por tonelada, y también debemos mejorar frente a Dalgar. Las columnas azules, que representan el costo de producción + flete, para Solvay Peróxidos marcan que nuestro margen de rentabilidad está bajo presión porque los precios para los clientes, lejos de mantenerse estables, están yendo a la baja para la poca demanda agua oxigenada.
+Del gráfico Precio CIF vs Competidor se pueden ver los precios de los fletes por tonelada, y también debemos mejorar frente a Dalgar. Las columnas azules, que representan el costo de producción + flete, para Solvay Peróxidos marcan que nuestro margen de rentabilidad está bajo presión porque los precios para los clientes, lejos de mantenerse estables, están yendo a la baja para la poca demanda agua oxigenada.
 
 ### Instrucciones de uso
 
@@ -69,7 +69,9 @@ Para ver KPIs que describen el cumplimiento de metas, se accede al siguiente das
 
  * [PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/98037350-6f8a-49dd-a79e-037e0111255c/9684fd06026c94b4c3b1?experience=power-bi)
 
-<img src="https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/main/images/Captura%20de%20pantalla%202026-11-14%20173930.png" alt="Descripción del gráfico" width="700">
+   La siguiente imagen muestra el caso puntual filtrando a Solvay Peróxidos en el año 2026, donde se observa que estamos levemente por debajo de los objetivos respecto al costo del flete en USD/tn y el market share que es del orden del 14%, si bien podríamos lograr llegar al 15% en lo que resta del año.
+
+<img src="https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/main/images/Captura%20de%20pantalla%202026-11-14%20173930.png" alt="Descripción del gráfico" width="850">
 
 
 ### 🔍Resultados  
@@ -79,9 +81,9 @@ El mercado argentino de agua oxigenada viene cayendo sin pausa desde 2023, lo qu
 La incidencia de los fletes ha aumentado dado que los precios bajaron mientras nuestros transportes (Solvay Peróxidos) se mantuvieron casi constantes desde 2021 en USD/tn.
 Frente a este contexto se buscará importar producto desde Chile por la menor distancia respecto a Brasil.
 
-Es prioritario renegociar nuestros servicios logísticos, logrando una reducción mínima del 10%, así como también nuestros costos de producción, para ser más competitivos y adaptarnos a la realidad del mercado actual. Con estas medidas, volveremos al nivel mínimo de un Mkt Share del 15%
+Es prioritario renegociar nuestros servicios logísticos, logrando una reducción mínima del 10%, así como también nuestros costos de producción, para ser más competitivos y adaptarnos a la realidad del mercado actual. Con estas medidas, volveremos al nivel mínimo de un Mkt Share del 15%, pudiendo superar fácilmente el 20%.
 
-La tendencia es que se mantendrá un mercado recesivo y sin cambios hasta después de las elecciones del año próximo, en caso que aumente el consumo de la población, y no dependerá tanto de que se restrinjan las importaciones de producto terminado.
+La tendencia es que se mantendrá un mercado estable en el mejor de los escenarios, y más probablemente en retracción hasta después de las elecciones del año próximo,  y en caso que aumente el consumo de la población un aumento en los volúmenes tendrá lugar durante 2028 y no dependerá tanto de que se restrinjan las importaciones de producto terminado.
 
 
 #### Clonar repositorio
