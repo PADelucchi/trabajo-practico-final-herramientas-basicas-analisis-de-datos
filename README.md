@@ -37,7 +37,7 @@ Se compone de casi 6000 filas y 36 columnas. Contiene información sobre tonelad
 
 <img src="https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/main/images/Mkt%20perox%20Ene-Sep%20comparaci%C3%B3n.png" alt="Descripción del gráfico" width="700">
 
-Se observa que el mercado ha disminuido desde el cambio de modelo económico implementado por el actual gobierno, debido a la caída del consumo que afecta a la industria textil y papelera, así como la apertura de importaciones. Comparo Ene-Sep de cada año, para enfocarnos en el presente año, que aún no termina.
+Se observa que el mercado ha disminuido desde el cambio de modelo económico implementado por el actual gobierno. Comparo Ene-Sep de cada año, para enfocarnos en el presente año, que aún no termina.
  
 Y en el siguiente se aprecia la evolución del mkt share
 
@@ -58,7 +58,7 @@ Analizando en mayor detalle, se muestra la comparación del precio mensual del p
 
 #### 3) Medir la incidencia del costo logístico en el precio del producto, que no sea mayor a 150 usd/tn y su comparación frente a competidores directos.
 
-Del gráfico Precio CIF vs Competidor se pueden ver los precios de los fletes por tonelada, y también debemos mejorar frente a Dalgar. Las columnas azules, que representan el costo de producción + flete, para Solvay Peróxidos marcan que nuestro margen de rentabilidad está bajo presión porque los precios para los clientes, lejos de mantenerse estables, están yendo a la baja para la poca demanda agua oxigenada.
+Del gráfico Precio CIF vs Flete Competidor se pueden ver los precios de los fletes por tonelada, y también debemos mejorar frente a Dalgar. Las columnas azules, que representan el costo de producción + flete, para Solvay Peróxidos marcan que nuestro margen de rentabilidad está bajo presión porque los precios para los clientes, lejos de mantenerse estables, están yendo a la baja para la poca demanda agua oxigenada.
 
 ### Instrucciones de uso
 
@@ -69,7 +69,7 @@ Para ver KPIs que describen el cumplimiento de metas, se accede al siguiente das
 
  * [PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/98037350-6f8a-49dd-a79e-037e0111255c/9684fd06026c94b4c3b1?experience=power-bi)
 
-   La siguiente imagen muestra el caso puntual filtrando a Solvay Peróxidos en el año 2026, donde se observa que estamos levemente por debajo de los objetivos respecto al costo del flete en USD/tn y el market share que es del orden del 14%, si bien podríamos lograr llegar al 15% en lo que resta del año.
+   La siguiente imagen del dashboard muestra el caso puntual filtrando a Solvay Peróxidos en el año 2026, donde se observa que estamos levemente por debajo de los objetivos respecto al costo del flete en USD/tn y el market share que es del orden del 14%, si bien podríamos lograr llegar al 15% en lo que resta del año.
 
 <img src="https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/main/images/Captura%20de%20pantalla%202026-11-14%20173930.png" alt="Descripción del gráfico" width="850">
 
