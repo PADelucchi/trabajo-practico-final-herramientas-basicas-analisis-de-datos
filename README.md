@@ -54,7 +54,7 @@ En la gráfica se excluyen los usuarios directos, haciendo foco en los competido
 
 Analizando en mayor detalle, se muestra la comparación del precio mensual del presente año, donde no hubo un solo mes donde nuestro precio haya sido menor.
 
-<img src="" alt="Descripción del gráfico" width="700">
+<img src="https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/main/images/Captura%20de%20pantalla%202026-11-14%20173135.png" alt="Descripción del gráfico" width="700">
 
 #### 3) Medir la incidencia del costo logístico en el precio del producto, que no sea mayor a 150 usd/tn y su comparación frente a competidores directos.
 
