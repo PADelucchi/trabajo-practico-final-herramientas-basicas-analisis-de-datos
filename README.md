@@ -48,7 +48,7 @@ Nuestro market share se ha mantenido cercano a la meta del 15% durante la actual
 
 #### 2) Seguir la evolución de los precios y comparación frente a la competencia
 
-
+<img src="" alt="Descripción del gráfico" width="700">
 
 #### 3) Medir la incidencia del costo logístico en el precio del producto, que no sea mayor a 150 usd/tn y su comparación frente a competidores directos.
 
