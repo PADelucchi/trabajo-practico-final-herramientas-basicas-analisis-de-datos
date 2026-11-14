@@ -5,7 +5,7 @@ Curso: Herramientas básicas para Análisis de Datos - Centro UTN E-Learning
                                        
 ### Descripción general: Evolución del mercado argentino de peróxido de hidrógeno (2021-2026) 
 
-Siendo uno de los mayores fabricantes de este insumo,es primordial monitorear nuestra posición en el mercado analizando periódicamente las importaciones de la posición arancelaria correspondiente, así como incluir con la mayor precisión posible las cantidades fabricadas en el país.  
+Siendo Solvay Peróxidos uno de los mayores fabricantes de este insumo, es primordial monitorear nuestra posición en el mercado analizando periódicamente las importaciones de la posición arancelaria correspondiente, así como incluir con la mayor precisión posible las cantidades fabricadas en el país.  
 
 📂DATASET: (https://app.penta-transaction.com/home/detalle/AR/importDetalladas) se requiere contraseña pero ya se descargaron los datos en el archivo H2O2 2021 Sep 2026_sucio.xlsx presente en este repositorio.
 Se descargan por año las importaciones de la posición arancelaria del peróxido de hidrógeno (código 2847) y se arma el archivo, que unifica todos los despachos de importaciones en el período 2021 - Sep 2026.
@@ -33,7 +33,22 @@ Se compone de casi 6000 filas y 36 columnas. Contiene información sobre tonelad
 
 #### 1) Monitorear la evolución del tamaño del mercado en toneladas y participación de cada empresa y conocer en cualquier año si cumplimos con la meta del 15%
 
+
+
+<img src="https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/main/images/Mkt%20perox%20Ene-Sep%20comparaci%C3%B3n.png" alt="Descripción del gráfico" width="700">
+
+Se observa que el mercado ha disminuido desde el cambio de modelo económico implementado por el actual gobierno, debido a la caída del consumo que afecta a la industria textil y papelera, así como la apertura de importaciones.
+ 
+Y en el siguiente se aprecia la evolución del mkt share
+
+<img src="https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/d067cb408a9180a11a1435acb5cfad9ed6ae1f64/images/Evol%20Mkt%20Share%20a%C3%B1o.png" alt="Descripción del gráfico" width="700">
+
+Nuestro market share se ha mantenido cercano a la meta del 15% durante la actual gestión económica y descendido fuertemente desde el año 2022. Esto es debido también a la caída en los precios finales a los clientes. Nuestra estructura de costos y fletes no ha mejorado lo que nos resta competitividad.
+
+
 #### 2) Seguir la evolución de los precios y comparación frente a la competencia
+
+
 
 #### 3) Medir la incidencia del costo logístico en el precio del producto, que no sea mayor a 150 usd/tn y su comparación frente a competidores directos.
 
@@ -46,13 +61,7 @@ Para ver KPIs
 
  * [PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/98037350-6f8a-49dd-a79e-037e0111255c/9684fd06026c94b4c3b1?experience=power-bi)
 
-El siguiente gráfico muestra las toneladas por empresa proveedora
 
-<img src="https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/main/images/Mkt%20perox%20Ene-Sep%20comparaci%C3%B3n.png" alt="Descripción del gráfico" width="700">
- 
-Y en el siguiente se aprecia la evolución del mkt share
-
-<img src="https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/d067cb408a9180a11a1435acb5cfad9ed6ae1f64/images/Evol%20Mkt%20Share%20a%C3%B1o.png" alt="Descripción del gráfico" width="700">
 
 #### Clonar repositorio
 
