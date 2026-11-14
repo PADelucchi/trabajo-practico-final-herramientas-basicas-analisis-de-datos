@@ -37,7 +37,7 @@ Se compone de casi 6000 filas y 36 columnas. Contiene información sobre tonelad
 
 <img src="https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/main/images/Mkt%20perox%20Ene-Sep%20comparaci%C3%B3n.png" alt="Descripción del gráfico" width="700">
 
-Se observa que el mercado ha disminuido desde el cambio de modelo económico implementado por el actual gobierno, debido a la caída del consumo que afecta a la industria textil y papelera, así como la apertura de importaciones.
+Se observa que el mercado ha disminuido desde el cambio de modelo económico implementado por el actual gobierno, debido a la caída del consumo que afecta a la industria textil y papelera, así como la apertura de importaciones. Comparo Ene-Sep de cada año, para enfocarnos en el presente año, que aún no termina.
  
 Y en el siguiente se aprecia la evolución del mkt share
 
