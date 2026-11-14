@@ -50,6 +50,8 @@ Nuestro market share se ha mantenido cercano a la meta del 15% durante la actual
 
 <img src="https://github.com/PADelucchi/herramientas-basicas-analisis-de-datos-Delucchi-Pablo/blob/main/images/Precios%20y%20fletes%20competidores%20directos.png" alt="Descripción del gráfico" width="700">
 
+En la gráfica se excluyen los usuarios directos, haciendo foco en los competidores directos, es decir el sector de reventa. Se evidencian nuestros costos mayores frente al competidor Dalgar, pero bien posicionados frente a Febel 
+
 #### 3) Medir la incidencia del costo logístico en el precio del producto, que no sea mayor a 150 usd/tn y su comparación frente a competidores directos.
 
 ### Instrucciones de uso
